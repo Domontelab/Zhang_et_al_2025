@@ -6,7 +6,7 @@
 
 ## Overview
 
-This repository contains all of the analysis pipelines used in the Zhang *et al.* 2025 study investigating how internal state (hunger, satiation, threat, safety) shapes population‑level neural dynamics in prelimbic cortex and behavior in rats.
+This repository contains the analysis pipelines used in the Zhang *et al.* 2025 study investigating how internal state (hunger, satiation, threat, safety) shapes population‑level neural dynamics in prelimbic cortex and behavior in rats.
 The code is organised as a set of Jupyter notebooks that:
 
 * quantify cue‑evoked responses across states
