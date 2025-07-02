@@ -37,5 +37,5 @@ All workflows run in pure Python.
 
 ---
 
-*Last updated: 14 June 2025.*
+*Last updated: 2 July 2025.*
 
